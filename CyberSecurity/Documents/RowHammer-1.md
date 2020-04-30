@@ -13,3 +13,6 @@ La `celda de memoria` es la unidad básica de cualquier memoria, capaz de __alma
 >Memoria DRAM.
 
 Para acceder a una posición de memoria se necesita una dirección de 4 bits, pero en las `DRAM` las direcciones estan multiplexadas en tiempo. Las entradas marcadas como  a<sub>0</sub> y a<sub>1</sub> son el bus de direcciones y por el mismo entra la dirección de las filas y depués la de la columna. Las direcciones se diferencian por medio de señales de sincronización llamadas `RAS` (*Row Address Strobe*) y `CAS` (*Column Address Stroke*) que indica la entrada de cada parte de la dirección.
+
+# Reference
+* [Youtube](https://www.youtube.com/watch?v=rGaF15-ko5w)
