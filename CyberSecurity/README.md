@@ -3,7 +3,7 @@
   <!--<a href="https://yangshun.github.io/tech-interview-handbook/">
     <img src="https://www.kindpng.com/picc/b/222/2223087.png" alt="Tech Interview Handbook" width="400">
   </a> -->
-  <img src="https://www.kindpng.com/picc/b/222/2223087.png" alt="Tech Interview Handbook" width="400">
+  <img src="https://www.kindpng.com/picc/b/222/2223087.png" alt="Tech Interview Handbook" width="800">
   <br><br>
   <a href="https://github.com/BrandPM18/MarkdownReports/tree/master/CyberSecurity">
     <img src="https://img.shields.io/badge/Course-Cybersecurity-blue" alt="Cybersecurity blue">
