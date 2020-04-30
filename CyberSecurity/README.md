@@ -16,12 +16,3 @@
     <a href="https://yangshun.github.io/tech-interview-handbook/">Read on the website</a>
   </h3>-->
 </div>
-
-
-## Tabla 
-
-[TOC]
-# Heading 1
-## Heading 2               
-### Heading 3
-#### Heading 4
