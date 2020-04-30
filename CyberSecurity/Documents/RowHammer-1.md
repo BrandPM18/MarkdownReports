@@ -1,5 +1,5 @@
 # RowHammer: 
-Cambia el contenido de los bits individuales en la memoria basada en chips DRAM (_Dynamic Random Access Memory_ o RAM Dinamica) para proteger la integridad de los códigos de corrección de errores o _Error-Correcting Code_ (ECC) 
+RowHammer  cambia el contenido de los bits individuales en la memoria basada en chips DRAM (_Dynamic Random Access Memory_ o RAM Dinamica) para proteger la integridad de los códigos de corrección de errores o _Error-Correcting Code_ (ECC) 
 La vulnerabilidad de `RowHammer` puede distorsionar el contenido de los bits mediante la lectura cíclica de los datos de las celdas vecinas
 
 [![RowHammer](https://www.linuxadictos.com/wp-content/uploads/row-Hammer.png)](https://www.youtube.com/watch?v=X8-X_52rg80&feature=emb_title)
