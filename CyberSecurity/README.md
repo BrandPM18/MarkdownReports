@@ -1,4 +1,4 @@
-<h1> CyberSecuridad </h1>
+<h1 align="center"> CyberSecuridad </h1>
 <div align="center">
   <!--<a href="https://yangshun.github.io/tech-interview-handbook/">
     <img src="https://www.kindpng.com/picc/b/222/2223087.png" alt="Tech Interview Handbook" width="400">
