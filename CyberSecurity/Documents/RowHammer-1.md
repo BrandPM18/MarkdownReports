@@ -14,7 +14,7 @@ La `celda de memoria` es la unidad básica de cualquier memoria, capaz de __alma
 
 Para acceder a una posición de memoria se necesita una dirección de 4 bits, pero en las `DRAM` las direcciones estan multiplexadas en tiempo. Las entradas marcadas como  a<sub>0</sub> y a<sub>1</sub> son el bus de direcciones y por el mismo entra la dirección de las filas y depués la de la columna. Las direcciones se diferencian por medio de señales de sincronización llamadas `RAS` (*Row Address Strobe*) y `CAS` (*Column Address Stroke*) que indica la entrada de cada parte de la dirección.
 
-# Reference and extra
+## Reference and extra
 1. Youtube: 
   * [Los ataques de Rowhammer explicados simplemente](https://www.youtube.com/watch?v=rGaF15-ko5w)
   * [Explotación del error DRAM Rowhammer para obtener privilegios de kernel](https://www.youtube.com/watch?v=0U7511Fb4to)
