@@ -22,6 +22,7 @@ Para acceder a una posición de memoria se necesita una dirección de 4 bits, pe
 2. Documents:
     - [RowHammer: una retrospectiva](https://arxiv.org/pdf/1904.09724.pdf)
     - [Explotar el error DRAM rowhammer para obtener privilegios de kernel](https://www.blackhat.com/docs/us-15/materials/us-15-Seaborn-Exploiting-The-DRAM-Rowhammer-Bug-To-Gain-Kernel-Privileges.pdf)
-    - SAFARI: [Rowhammer](https://github.com/CMU-SAFARI/rowhammer)
     - Cisco: ["Mitigaciones disponibles para la vulnerabilidad DRAM Row Hammer"](http://blogs.cisco.com/security/mitigations-available-for-the-dram-row-hammer-vulnerability)
+3. Github:
+    - SAFARI: [Rowhammer](https://github.com/CMU-SAFARI/rowhammer)
     - Google: [RowHammer-test](https://github.com/google/rowhammer-test)
